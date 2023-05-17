@@ -23,7 +23,7 @@ public class WatAPizza {
         System.out.println("  2        Garlic Bread     3             5.99          17.97 ");
         System.out.println("  3        Beverages        3             1.99           5.9700003");
         System.out.println("______________________________________________________________");
-
+        System.out.println("Total bill amount: $86.44");
 
 
 
