@@ -17,6 +17,7 @@ public class WatAPizza {
         System.out.println("Order Summary");
         System.out.println("---------------");
         System.out.println();
+        System.out.println(" Sr no.   Item name   ItemQuantity   $price/unit   $totalprice");
 
 
     }
