@@ -18,6 +18,8 @@ public class WatAPizza {
         System.out.println("---------------");
         System.out.println();
         System.out.println(" Sr no.   Item name   ItemQuantity   $price/unit   $totalprice");
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("  1         Pizza           5            12.5           62.5  ");
 
 
     }
