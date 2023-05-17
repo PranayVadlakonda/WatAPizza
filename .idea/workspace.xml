@@ -94,14 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1684285603949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initialize and declare the variable name with customeraddress and print it on console">
+      <created>1684285751047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684285751047</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added semicolon on line no 12">
+      <created>1684285785163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684285785163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize and declare the variable name with customername and print it on console" />
     <MESSAGE value="initialize and declare the variable name with customerphonenumber and print it on console" />
     <MESSAGE value="initialize and declare the variable name with customeremail and print it on console" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize and declare the variable name with customeremail and print it on console" />
+    <MESSAGE value="initialize and declare the variable name with customeraddress and print it on console" />
+    <MESSAGE value="added semicolon on line no 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="added semicolon on line no 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
