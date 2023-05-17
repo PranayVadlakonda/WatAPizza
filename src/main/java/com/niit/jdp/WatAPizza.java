@@ -16,6 +16,8 @@ public class WatAPizza {
         System.out.println("---------------");
         System.out.println("Order Summary");
         System.out.println("---------------");
+        System.out.println();
+
 
     }
 }
