@@ -21,6 +21,9 @@ public class WatAPizza {
         System.out.println("--------------------------------------------------------------");
         System.out.println("  1         Pizza           5            12.5           62.5  ");
         System.out.println("  2        Garlic Bread     3             5.99          17.97 ");
+        System.out.println("  3        Beverages        3             1.99           5.9700003");
+        System.out.println("______________________________________________________________");
+
 
 
 
