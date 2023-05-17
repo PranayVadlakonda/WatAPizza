@@ -6,5 +6,7 @@ public class WatAPizza {
         System.out.println("customerName" + " = " + customerName);
         int customerPhoneNumber = 412312345;
         System.out.println("customerPhoneNumber = " + customerPhoneNumber);
+        String customerEmail = "gary@123.com";
+        System.out.println("customerEmail = " + customerEmail);
     }
 }
