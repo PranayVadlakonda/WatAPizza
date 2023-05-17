@@ -8,5 +8,7 @@ public class WatAPizza {
         System.out.println("customerPhoneNumber = " + customerPhoneNumber);
         String customerEmail = "gary@123.com";
         System.out.println("customerEmail = " + customerEmail);
+        String customerAddress = "20, Marble Drive ,Eville";
+        System.out.println("customerAddress = " + customerAddress)
     }
 }
