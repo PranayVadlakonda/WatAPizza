@@ -10,7 +10,12 @@ public class WatAPizza {
         System.out.println("customerEmail = " + customerEmail);
         String customerAddress = "20, Marble Drive ,Eville";
         System.out.println("customerAddress = " + customerAddress);
+        System.out.println();
+        System.out.println();
+        System.out.println();
         System.out.println("---------------");
         System.out.println("Order Summary");
+        System.out.println("---------------");
+
     }
 }
