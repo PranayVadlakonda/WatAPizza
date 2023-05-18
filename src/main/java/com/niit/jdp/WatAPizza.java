@@ -30,6 +30,13 @@ public class WatAPizza {
         double totalPriceOfGarlicBread = noOfGarlicBreadsOrdered * garlicBreadPrice;
         System.out.println(" 2 "+"      " + "GarlicBread" +"     " + noOfGarlicBreadsOrdered + "             " + garlicBreadPrice +"            "+ totalPriceOfGarlicBread);
 
+        double beveragePrice = 1.99;
+        int noOfBeveragesOrdered = 3;
+        double totalNoOfBeverages = noOfBeveragesOrdered * beveragePrice;
+        System.out.println(" 3 "+"     " + "Beverages" +"        "+ noOfBeveragesOrdered + "             " + beveragePrice +"            "+ totalNoOfBeverages);
+        System.out.println("--------------------------------------------------------------");
+
+
 
 
 
