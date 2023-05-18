@@ -39,6 +39,9 @@ public class WatAPizza {
         double totalBillAmount = totalNoOfBeverages + totalPriceOfGarlicBread + totalPriceOfPizza;
         System.out.println("totalBillAmount : $" + totalBillAmount);
         System.out.println("Discount Offered : 10%");
+        double amountToBePaid = totalBillAmount*90/100;
+        System.out.println("amountToBePaid = " + amountToBePaid);
+        System.out.println("--------------------Thank You---------------------------------");
 
 
 

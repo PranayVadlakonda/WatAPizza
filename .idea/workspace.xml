@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="729ee570-5332-4a08-832c-3c15faaae088" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/WatAPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/WatAPizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684372147632</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="found the total bill amount by multipliying all prices and printed on console">
+      <created>1684372806354</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684372806354</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,7 +228,8 @@
     <MESSAGE value="initialized the price and no of pizzas and printed on console" />
     <MESSAGE value="initialized the price and no of garlicbreads and printed on console" />
     <MESSAGE value="initialized the values of beverage and added line no 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized the values of beverage and added line no 37" />
+    <MESSAGE value="found the total bill amount by multipliying all prices and printed on console" />
+    <option name="LAST_COMMIT_MESSAGE" value="found the total bill amount by multipliying all prices and printed on console" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
