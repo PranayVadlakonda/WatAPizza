@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="729ee570-5332-4a08-832c-3c15faaae088" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/WatAPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/WatAPizza.java" afterDir="false" />
-    </list>
+    <list default="true" id="729ee570-5332-4a08-832c-3c15faaae088" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684319174183</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="printed discount offered and amount to be paid and line 29">
+      <created>1684319396479</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684319396479</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,7 +186,8 @@
     <MESSAGE value="added line no 23" />
     <MESSAGE value="added line no 24 and 25" />
     <MESSAGE value="printed total bill amount" />
-    <option name="LAST_COMMIT_MESSAGE" value="printed total bill amount" />
+    <MESSAGE value="printed discount offered and amount to be paid and line 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="printed discount offered and amount to be paid and line 29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

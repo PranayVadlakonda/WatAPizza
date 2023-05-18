@@ -19,14 +19,7 @@ public class WatAPizza {
         System.out.println();
         System.out.println(" Sr no.   Item name   ItemQuantity   $price/unit   $totalprice");
         System.out.println("--------------------------------------------------------------");
-        System.out.println("  1         Pizza           5            12.5           62.5  ");
-        System.out.println("  2        Garlic Bread     3             5.99          17.97 ");
-        System.out.println("  3        Beverages        3             1.99           5.9700003");
-        System.out.println("______________________________________________________________");
-        System.out.println("Total bill amount: $86.44");
-        System.out.println("Discount offered : 10%");
-        System.out.println("Amount to be paid: $77.796005");
-        System.out.println("----------------------Thank You-------------------------------");
+
 
 
 
