@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684371122972</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="initialized the values of beverage and added line no 37">
+      <created>1684372147632</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684372147632</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,7 +221,8 @@
     <MESSAGE value="removed lines from 22" />
     <MESSAGE value="initialized the price and no of pizzas and printed on console" />
     <MESSAGE value="initialized the price and no of garlicbreads and printed on console" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized the price and no of garlicbreads and printed on console" />
+    <MESSAGE value="initialized the values of beverage and added line no 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized the values of beverage and added line no 37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

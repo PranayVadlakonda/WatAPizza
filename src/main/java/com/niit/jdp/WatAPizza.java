@@ -36,6 +36,11 @@ public class WatAPizza {
         System.out.println(" 3 "+"     " + "Beverages" +"        "+ noOfBeveragesOrdered + "             " + beveragePrice +"            "+ totalNoOfBeverages);
         System.out.println("--------------------------------------------------------------");
 
+        double totalBillAmount = totalNoOfBeverages + totalPriceOfGarlicBread + totalPriceOfPizza;
+        System.out.println("totalBillAmount : $" + totalBillAmount);
+
+
+
 
 
 
