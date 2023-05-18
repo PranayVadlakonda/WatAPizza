@@ -20,6 +20,10 @@ public class WatAPizza {
         System.out.println(" Sr no.   Item name   ItemQuantity   $price/unit   $totalprice");
         System.out.println("--------------------------------------------------------------");
 
+        double pizzaPrice = 12.5;
+        int noOfPizzasOrdered = 5;
+        double totalPriceOfPizza = pizzaPrice * noOfPizzasOrdered;
+        System.out.println(" 1 "+"       " + "Pizza" +"          " + noOfPizzasOrdered + "            " + pizzaPrice + "             " + totalPriceOfPizza);
 
 
 
